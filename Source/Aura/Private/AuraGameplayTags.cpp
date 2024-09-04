@@ -201,21 +201,45 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		);
 
 	/*
-	** Abilities
+	** Combat Sockets
 	*/
 	
-	GameplayTags.Montage_Attack_Weapon = UGameplayTagsManager::Get().AddNativeGameplayTag(
-		FName("Montage.Attack.Weapon"),
-		FString("Grants Ability to attack your Enemies with a Weapon")
+	GameplayTags.Combat_Socket_Weapon = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Combat.Socket.Weapon"),
+		FString("Grants Ability to socket a Weapon in your gear for combat")
 		);
 
-	GameplayTags.Montage_Attack_LeftHand = UGameplayTagsManager::Get().AddNativeGameplayTag(
-		FName("Montage.Attack.LeftHand"),
-		FString("Grants Ability to attack your Enemies with only your left hand")
+	GameplayTags.Combat_Socket_LeftHand = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Combat.Socket.LeftHand"),
+		FString("Grants Ability to use your left hand as a weapon in combat")
 		);
 
-	GameplayTags.Montage_Attack_RightHand = UGameplayTagsManager::Get().AddNativeGameplayTag(
-		FName("Montage.Attack.RightHand"),
-		FString("Grants Ability to attack your Enemies with a only your right hand")
+	GameplayTags.Combat_Socket_RightHand = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Combat.Socket.RightHand"),
+		FString("Grants Ability to use your right hand as a weapon in combat")
+		);
+
+	/*
+	** Montages
+	*/
+	
+	GameplayTags.Montage_Attack_1 = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Montage.Attack.1"),
+		FString("Because even in Combat... you want to look good.")
+		);
+
+	GameplayTags.Montage_Attack_2 = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Montage.Attack.2"),
+		FString("Because even in Combat... you want to look good.")
+		);
+
+	GameplayTags.Montage_Attack_3 = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Montage.Attack.3"),
+		FString("Because even in Combat... you want to look good.")
+		);
+
+	GameplayTags.Montage_Attack_4 = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Montage.Attack.4"),
+		FString("Because even in Combat... you want to look good.")
 		);
 }
