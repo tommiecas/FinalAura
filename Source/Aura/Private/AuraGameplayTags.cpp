@@ -219,6 +219,11 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		FString("Grants Ability to use your right hand as a weapon in combat")
 		);
 
+	GameplayTags.Combat_Socket_Tail = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Combat.Socket.Tail"),
+		FString("Grants Ability to use your tail as a weapon in combat")
+		);
+
 	/*
 	** Montages
 	*/
