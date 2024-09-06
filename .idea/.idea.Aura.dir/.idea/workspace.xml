@@ -7,9 +7,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Select Minion Class at Random">
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Select Minion Class at Random Part 2">
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbillitySystem/Enemy/Abilities/GA_SummonAbility.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbillitySystem/Enemy/Abilities/GA_SummonAbility.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -467,7 +466,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725615941241</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Select Minion Class at Random Part 2">
+      <option name="closed" value="true" />
+      <created>1725616413968</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1725616413968</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +505,8 @@
     <MESSAGE value="Async Spawn Times" />
     <MESSAGE value="Summoning Particle Effect" />
     <MESSAGE value="Select Minion Class at Random" />
-    <option name="LAST_COMMIT_MESSAGE" value="Select Minion Class at Random" />
+    <MESSAGE value="Select Minion Class at Random Part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Select Minion Class at Random Part 2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
