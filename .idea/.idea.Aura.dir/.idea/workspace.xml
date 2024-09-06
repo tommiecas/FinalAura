@@ -7,10 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Demon Ranged Attack through Demon Ranger Sound Notifies, Montages and Completion">
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Shaman Summon Locations">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbillitySystem/Data/DA_CharacterClassInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbillitySystem/Data/DA_CharacterClassInfo.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/StartupMap.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbillitySystem/Enemy/Abilities/GA_SummonAbility.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbillitySystem/Enemy/Abilities/GA_SummonAbility.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Abilities/AuraSummonAbility.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Abilities/AuraSummonAbility.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -436,7 +436,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725610353284</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Shaman Summon Locations">
+      <option name="closed" value="true" />
+      <created>1725613369725</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1725613369725</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -463,7 +471,8 @@
     <MESSAGE value="Ghoul Swipe Trail and Demon Blueprint" />
     <MESSAGE value="Demon Melee Attack" />
     <MESSAGE value="Demon Ranged Attack through Demon Ranger Sound Notifies, Montages and Completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Demon Ranged Attack through Demon Ranger Sound Notifies, Montages and Completion" />
+    <MESSAGE value="Shaman Summon Locations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Shaman Summon Locations" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
