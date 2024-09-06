@@ -7,7 +7,6 @@
 #include "AbilitySystem/AuraAbilitySystemLibrary.h"
 #include "AbilitySystem/AuraAttributeSet.h"
 #include "Aura/Aura.h"
-#include "Components/CapsuleComponent.h"
 #include "Components/WidgetComponent.h"
 #include "UI/Widgets/AuraUserWidget.h"
 #include "AuraGameplayTags.h"
