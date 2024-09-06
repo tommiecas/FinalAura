@@ -7,12 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Goblin Shaman Sound Notifies">
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Ghoul Sound Notifies">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/AnimationMontages/AM_Ghoul_Attack_LeftHandMelee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/AnimationMontages/AM_Ghoul_Attack_LeftHandMelee.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/AnimationMontages/AM_Ghoul_Attack_RightHandMelee.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/AnimationMontages/AM_Ghoul_Attack_RightHandMelee.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/AnimationMontages/AM_Ghoul_HitReact.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/AnimationMontages/AM_Ghoul_HitReact.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/BP_Ghoul.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/BP_Ghoul.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/SKM_Ghoul.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/SKM_Ghoul.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/SK_Ghoul.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Enemies/Ghouls/SK_Ghoul.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725556614829</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ghoul Sound Notifies">
+      <option name="closed" value="true" />
+      <created>1725558216436</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725558216436</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -401,7 +409,8 @@
     <MESSAGE value="Goblin Spear Hurt and Death Sounds" />
     <MESSAGE value="Goblin_Slingshot Sound Notifies" />
     <MESSAGE value="Goblin Shaman Sound Notifies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Goblin Shaman Sound Notifies" />
+    <MESSAGE value="Ghoul Sound Notifies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ghoul Sound Notifies" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
