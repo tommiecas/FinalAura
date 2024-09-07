@@ -200,6 +200,11 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		FString("Grants Ability to attack your Enemies")
 		);
 
+	GameplayTags.Abilities_Summon = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Abilities.Summon"),
+		FString("Grants Ability to Summon Minions who do your bidding")
+		);
+
 	/*
 	** Combat Sockets
 	*/
