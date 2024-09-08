@@ -33,8 +33,7 @@ protected:
 	TObjectPtr<UAttributeSet> AttributeSet;
 
 private:
-	// TODO: Change EditAnywhere back to VisibleAnywhere
-	UPROPERTY(EditAnywhere, ReplicatedUsing=OnRep_Level)
+	UPROPERTY(VisibleAnywhere, ReplicatedUsing=OnRep_Level)
 	int32 Level = 1;
 
 	UFUNCTION()
