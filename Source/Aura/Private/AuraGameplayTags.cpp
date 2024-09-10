@@ -205,6 +205,11 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		FString("Grants Ability to Summon Minions who do your bidding")
 		);
 
+	GameplayTags.Abilities_Fire_Firebolt = UGameplayTagsManager::Get().AddNativeGameplayTag(
+		FName("Abilities.Fire..FireBolt"),
+		FString("Grants Ability to Conjure singular FireBolts from Aura's Staff")
+		);
+
 	/*
 	** Combat Sockets
 	*/
