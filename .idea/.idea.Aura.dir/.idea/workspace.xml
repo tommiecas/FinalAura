@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Spell Globes" />
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Adding Spell Globes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +312,7 @@
       <workItem from="1725258488884" duration="4659000" />
       <workItem from="1725328830291" duration="8829000" />
       <workItem from="1725428581729" duration="4064000" />
-      <workItem from="1725776238010" duration="6747000" />
+      <workItem from="1725776238010" duration="7432000" />
     </task>
     <task id="LOCAL-00001" summary="Aura Working, Up To The Ghoul">
       <option name="closed" value="true" />
@@ -562,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725948614946</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Adding Spell Globes">
+      <option name="closed" value="true" />
+      <created>1725955154037</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1725955154037</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,7 +583,6 @@
       <path value="$PROJECT_DIR$/../Aura7.0" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Goblin Spear Hurt and Death Sounds" />
     <MESSAGE value="Goblin_Slingshot Sound Notifies" />
     <MESSAGE value="Goblin Shaman Sound Notifies" />
     <MESSAGE value="Ghoul Sound Notifies" />
@@ -600,7 +607,8 @@
     <MESSAGE value="Fading Out Obstructing Geometry" />
     <MESSAGE value="Health Mana Spells Widget" />
     <MESSAGE value="Spell Globes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spell Globes" />
+    <MESSAGE value="Adding Spell Globes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Spell Globes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
