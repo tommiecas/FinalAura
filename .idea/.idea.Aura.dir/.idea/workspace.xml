@@ -7,8 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Flame Pillar Actor">
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Fade Actor">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Dungeon/Beacon/Material/M_Beacon_f.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Dungeon/Beacon/Material/M_Beacon_f.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actors/FadeActors/BP_FadeActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actors/FadeActors/BP_FadeActor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/Dungeon.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/Dungeon.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +58,8 @@
   }
 }]]></component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Engine/Private/Materials/MaterialInstanceDynamic.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Private/AI/AuraAIController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Abilities/AuraProjectileSpell.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -313,7 +318,7 @@
       <workItem from="1725258488884" duration="4659000" />
       <workItem from="1725328830291" duration="8829000" />
       <workItem from="1725428581729" duration="4064000" />
-      <workItem from="1725776238010" duration="2613000" />
+      <workItem from="1725776238010" duration="5158000" />
     </task>
     <task id="LOCAL-00001" summary="Aura Working, Up To The Ghoul">
       <option name="closed" value="true" />
@@ -531,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725780178254</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Fade Actor">
+      <option name="closed" value="true" />
+      <created>1725904036211</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725904036211</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +557,6 @@
       <path value="$PROJECT_DIR$/../Aura7.0" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Goblin Spear Impact Effect and Sounds" />
     <MESSAGE value="test" />
     <MESSAGE value="test 2" />
     <MESSAGE value="Montage and Socket Tags" />
@@ -569,7 +581,8 @@
     <MESSAGE value="Enemies - Final Polish" />
     <MESSAGE value="Level Lighting and Post Process" />
     <MESSAGE value="Flame Pillar Actor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flame Pillar Actor" />
+    <MESSAGE value="Fade Actor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fade Actor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
