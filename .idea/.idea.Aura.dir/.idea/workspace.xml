@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Fading Out Obstructing Geometry" />
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Health Mana Spells Widget" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +312,7 @@
       <workItem from="1725258488884" duration="4659000" />
       <workItem from="1725328830291" duration="8829000" />
       <workItem from="1725428581729" duration="4064000" />
-      <workItem from="1725776238010" duration="5465000" />
+      <workItem from="1725776238010" duration="6114000" />
     </task>
     <task id="LOCAL-00001" summary="Aura Working, Up To The Ghoul">
       <option name="closed" value="true" />
@@ -546,7 +546,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725943159126</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Health Mana Spells Widget">
+      <option name="closed" value="true" />
+      <created>1725945926771</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1725945926771</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +567,6 @@
       <path value="$PROJECT_DIR$/../Aura7.0" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="test 2" />
     <MESSAGE value="Montage and Socket Tags" />
     <MESSAGE value="Goblin Spear Hurt and Death Sounds" />
     <MESSAGE value="Goblin_Slingshot Sound Notifies" />
@@ -584,7 +591,8 @@
     <MESSAGE value="Flame Pillar Actor" />
     <MESSAGE value="Fade Actor" />
     <MESSAGE value="Fading Out Obstructing Geometry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fading Out Obstructing Geometry" />
+    <MESSAGE value="Health Mana Spells Widget" />
+    <option name="LAST_COMMIT_MESSAGE" value="Health Mana Spells Widget" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
