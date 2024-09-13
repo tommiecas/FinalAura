@@ -7,8 +7,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Everything Through Cost and Cooldown">
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Level Up Info Data Asset">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerState.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerState.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerState.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerState.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,7 +317,7 @@
       <workItem from="1725428581729" duration="4064000" />
       <workItem from="1725776238010" duration="18305000" />
       <workItem from="1726025800858" duration="8496000" />
-      <workItem from="1726184261817" duration="7066000" />
+      <workItem from="1726184261817" duration="7843000" />
     </task>
     <task id="LOCAL-00001" summary="Aura Working, Up To The Ghoul">
       <option name="closed" value="true" />
@@ -621,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726189823803</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Level Up Info Data Asset">
+      <option name="closed" value="true" />
+      <created>1726199745048</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1726199745048</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -634,7 +644,6 @@
       <path value="$PROJECT_DIR$/../Aura7.0" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Shaman Summon Locations" />
     <MESSAGE value="Async Spawn Times" />
     <MESSAGE value="Summoning Particle Effect" />
     <MESSAGE value="Select Minion Class at Random" />
@@ -659,7 +668,8 @@
     <MESSAGE value="Binding Widget Events to the Ability Info Delegate" />
     <MESSAGE value="Gameplay Ability Cost" />
     <MESSAGE value="Everything Through Cost and Cooldown" />
-    <option name="LAST_COMMIT_MESSAGE" value="Everything Through Cost and Cooldown" />
+    <MESSAGE value="Level Up Info Data Asset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level Up Info Data Asset" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
