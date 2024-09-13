@@ -37,6 +37,9 @@ public:
 	FGameplayTag Attributes_Resistances_Lightning;
 	FGameplayTag Attributes_Resistances_Arcane;
 	FGameplayTag Attributes_Resistances_Physical;
+
+	FGameplayTag Attributes_Meta_IncomingXP;
+	
 	
 	FGameplayTag InputTag_AbilityLeft;
 	FGameplayTag InputTag_AbilityRight;
