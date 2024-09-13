@@ -7,13 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Adding XP to the Player State">
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Data/LevelUpInfo.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Data/LevelUpInfo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetControllers/OverlayWidgetController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/UI/WidgetControllers/OverlayWidgetController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/Data/LevelUpInfo.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/Data/LevelUpInfo.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerState.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Player/AuraPlayerState.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetControllers/OverlayWidgetController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/UI/WidgetControllers/OverlayWidgetController.h" afterDir="false" />
-    </list>
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Listening for XP Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -319,7 +313,7 @@
       <workItem from="1725428581729" duration="4064000" />
       <workItem from="1725776238010" duration="18305000" />
       <workItem from="1726025800858" duration="8496000" />
-      <workItem from="1726184261817" duration="10483000" />
+      <workItem from="1726184261817" duration="10995000" />
     </task>
     <task id="LOCAL-00001" summary="Aura Working, Up To The Ghoul">
       <option name="closed" value="true" />
@@ -641,7 +635,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726200693869</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Listening for XP Changes">
+      <option name="closed" value="true" />
+      <created>1726208617878</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1726208617878</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,7 +656,6 @@
       <path value="$PROJECT_DIR$/../Aura7.0" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Summoning Particle Effect" />
     <MESSAGE value="Select Minion Class at Random" />
     <MESSAGE value="Select Minion Class at Random Part 2" />
     <MESSAGE value="Summon Minion Montage" />
@@ -679,7 +680,8 @@
     <MESSAGE value="Everything Through Cost and Cooldown" />
     <MESSAGE value="Level Up Info Data Asset" />
     <MESSAGE value="Adding XP to the Player State" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding XP to the Player State" />
+    <MESSAGE value="Listening for XP Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Listening for XP Changes" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
