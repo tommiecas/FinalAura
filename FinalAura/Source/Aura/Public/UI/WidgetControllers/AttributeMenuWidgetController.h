@@ -22,7 +22,9 @@ public:
 
 	UPROPERTY(BlueprintAssignable, Category = "Gameplay Ability System | Attributes")
 	FAttributeInfoSignature AttributeInfoDelegate;
-
+	
+	UPROPERTY(BlueprintAssignable, Category = "Gameplay Abiliy System | Attributes")
+	FOnPlayerStatChangedSignature AttributePointsChangedDelegate;
 protected:
 	UPROPERTY(EditDefaultsOnly)
 	TObjectPtr<UAttributeInfo> AttributeInfo;
