@@ -7,12 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Showing Level in the HUD">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Assets/Dungeon/SM_Stairs.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Assets/Dungeon/SM_Stairs.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Characters/AuraCharacter.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Characters/AuraCharacter.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Characters/AuraCharacter.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Characters/AuraCharacter.h" afterDir="false" />
+    <list default="true" id="7730e148-d8a9-402e-b6f8-d2ccceba5b12" name="Changes" comment="Level Up Niagara System">
+      <change beforePath="$PROJECT_DIR$/Content/Assets/Sounds/LevelUp/sfx_Template_single.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/Overlays/WBP_Overlay.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/Overlays/WBP_Overlay.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +99,7 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://34" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/Aura/UHT/CombatInterface.gen.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Private/AI/AuraAIController.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Abilities/AuraProjectileSpell.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -363,15 +361,7 @@
       <workItem from="1725428581729" duration="4064000" />
       <workItem from="1725776238010" duration="18305000" />
       <workItem from="1726025800858" duration="8496000" />
-      <workItem from="1726184261817" duration="41603000" />
-    </task>
-    <task id="LOCAL-00002" summary="All Chapters Through the Shaman">
-      <option name="closed" value="true" />
-      <created>1725428980219</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1725428980219</updated>
+      <workItem from="1726184261817" duration="42293000" />
     </task>
     <task id="LOCAL-00003" summary="Still All Chapters Through Shaman">
       <option name="closed" value="true" />
@@ -757,7 +747,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726297847788</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Level Up Niagara System">
+      <option name="closed" value="true" />
+      <created>1726300801384</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1726300801384</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -770,7 +768,6 @@
       <path value="$PROJECT_DIR$/../Aura7.0" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Level Lighting and Post Process" />
     <MESSAGE value="Flame Pillar Actor" />
     <MESSAGE value="Fade Actor" />
     <MESSAGE value="Fading Out Obstructing Geometry" />
@@ -795,7 +792,8 @@
     <MESSAGE value="Level Up Interface Function" />
     <MESSAGE value="Leveling Up" />
     <MESSAGE value="Showing Level in the HUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Showing Level in the HUD" />
+    <MESSAGE value="Level Up Niagara System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Level Up Niagara System" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
