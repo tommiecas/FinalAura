@@ -33,7 +33,7 @@ public:
 	FOnPLayerStatChanged OnXPChangedDelegate;
 	FOnPLayerStatChanged OnLevelChangedDelegate;
 	
-	FORCEINLINE int32 GetPlayerCharacterLevel() const { return PlayerCharacterLevel; }
+	FORCEINLINE int32 GetLevel() const { return Level; }
 	FORCEINLINE int32 GetXP() const { return XP; }
 
 	void AddToXP(const int32 InXP);
@@ -51,7 +51,7 @@ protected:
 
 private:
 	UPROPERTY(VisibleAnywhere, ReplicatedUsing=OnRep_Level)
-	int32 PlayerCharacterLevel = 1;
+	int32 Level = 1;
 
 	UPROPERTY(VisibleAnywhere, ReplicatedUsing=OnRep_XP)
 	int32 XP = 1;
